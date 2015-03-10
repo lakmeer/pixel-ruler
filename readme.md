@@ -9,13 +9,13 @@ doesn't tell you like offset and scrollTop.
 
 ### Demo
 
-- clone
-- gulp develop
+- clone this repo
+- `gulp develop`
 
 ### Use it
 
 - include `dist/pixelRuler.js`
-- `pixelRuler(20)` (for 20px wide ruler)
+- `pixelRuler(20);` (for 20px wide ruler)
 
 ### Todo
 
