@@ -1,0 +1,13 @@
+{
+  "name": "pixel-ruler",
+  "version": "0.1.0",
+  "description": "A handy dandy ruler for working on your website",
+  "main": "index.js",
+  "author": "lakmeer (github.com/lakmeer)",
+  "license": "GPL3",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "gulp-connect": "^2.0.6",
+    "gulp-uglify": "^1.1.0"
+  }
+}
